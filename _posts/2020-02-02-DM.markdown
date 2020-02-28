@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "2020 青年挑戰營-斜槓人生DM"
+date:   2020-02-02 14:40:00 +0800
+categories: advertisement
+---
+2020 青年挑戰營-斜槓人生DM出爐囉！
+
+![DM]({{site.baseurl}}/assets/DM.jpg)
+![DM]({{site.baseurl}}/assets/Registration.jpg)
