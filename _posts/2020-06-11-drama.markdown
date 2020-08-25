@@ -11,7 +11,7 @@ categories: program
 ![drama4]({{site.baseurl}}/assets/program/drama4.jpg)
 ![drama5]({{site.baseurl}}/assets/program/drama5.jpg)
 
-[戲劇影片1]({{site.baseurl}}/assets/program/video1.mp4)  
-[戲劇影片2]({{site.baseurl}}/assets/program/video2.mov)  
-[戲劇影片3]({{site.baseurl}}/assets/program/video3.mov)  
+![戲劇影片1]({{site.baseurl}}/assets/program/video1.mp4)  
+![戲劇影片2]({{site.baseurl}}/assets/program/video2.mov)  
+![戲劇影片3]({{site.baseurl}}/assets/program/video3.mov)  
 [背景ppt]({{site.baseurl}}/assets/program/background.pptx)
