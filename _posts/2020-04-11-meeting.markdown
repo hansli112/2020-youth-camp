@@ -13,5 +13,6 @@ categories: meeting
 ![4-2]({{site.baseurl}}/meeting/4-2.jpg)
 ![5-1]({{site.baseurl}}/meeting/5-1.jpg)
 ![5-2]({{site.baseurl}}/meeting/5-2.jpg)
-![6]({{site.baseurl}}/meeting/6.png)
+![6]({{site.baseurl}}/meeting/6.jpg)
+![7]({{site.baseurl}}/meeting/7.png)
 ![final]({{site.baseurl}}/meeting/final.png)
