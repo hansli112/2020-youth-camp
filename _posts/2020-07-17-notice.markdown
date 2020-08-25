@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "行前通知"
+date:   2020-07-17 14:40:00 +0800
+categories: administration
+---
+![notice1]({{site.baseurl}}/assets/administration/notice1.jpg)
+![notice2]({{site.baseurl}}/assets/administration/notice2.jpg)

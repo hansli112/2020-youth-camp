@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "接受挑戰"
+date:   2020-07-08 14:40:00 +0800
+categories: game
+---
+[超級金頭腦ppt]({{site.baseurl}}/assets/game/puzzle.pptx)
+![sun1]({{site.baseurl}}/assets/game/sun1.jpg)
+![sun2]({{site.baseurl}}/assets/game/sun2.jpg)
+![rain1]({{site.baseurl}}/assets/game/rain1.jpg)
+![rain2]({{site.baseurl}}/assets/game/rain2.jpg)
+![sun3]({{site.baseurl}}/assets/game/sun3.jpg)
+![sun4]({{site.baseurl}}/assets/game/sun4.jpg)
+![rain3]({{site.baseurl}}/assets/game/rain3.jpg)
+![rain4]({{site.baseurl}}/assets/game/rain4.jpg)

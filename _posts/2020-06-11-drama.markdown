@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "戲劇"
+date:   2020-06-11 14:40:00 +0800
+categories: program
+---
+
+![drama1]({{site.baseurl}}/assets/program/drama1.jpg)
+![drama2]({{site.baseurl}}/assets/program/drama2.jpg)
+![drama3]({{site.baseurl}}/assets/program/drama3.jpg)
+![drama4]({{site.baseurl}}/assets/program/drama4.jpg)
+![drama5]({{site.baseurl}}/assets/program/drama5.jpg)
+
+![video1]({{site.baseurl}}/assets/program/video1.mp4)
+![video2]({{site.baseurl}}/assets/program/video2.mov)
+![video3]({{site.baseurl}}/assets/program/video3.mov)
+
+[背景ppt]({{site.baseurl}}/assets/program/background.pptx)

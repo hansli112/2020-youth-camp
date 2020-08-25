@@ -5,5 +5,3 @@ date:   2020-02-02 14:40:00 +0800
 categories: advertisement
 ---
 ![DM]({{site.baseurl}}/assets/DM.jpg)
-
-![DM]({{site.baseurl}}/assets/Registration.jpg)

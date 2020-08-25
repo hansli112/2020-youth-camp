@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "ppt"
+date:   2020-07-15 14:40:00 +0800
+categories: general
+---
+[第一天下午ppt]({{site.baseurl}}/assets/general/day1-1.pptx)  
+[第一天晚會ppt]({{site.baseurl}}/assets/general/day1-2.pptx)  
+[第二天下午ppt]({{site.baseurl}}/assets/general/day2-1.pptx)  
+[第二天晚會ppt]({{site.baseurl}}/assets/general/day2-2.pptx)  
+[夢想表格]({{site.baseurl}}/assets/general/dream.pdf)  
+[第三天下午ppt]({{site.baseurl}}/assets/general/day3.pptx)  
+[第四天早上ppt]({{site.baseurl}}/assets/general/day4.pptx)  

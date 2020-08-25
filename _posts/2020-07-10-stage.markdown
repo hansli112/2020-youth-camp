@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "劇照"
+date:   2020-07-10 14:40:00 +0800
+categories: multimedia
+---
+![stage1]({{site.baseurl}}/assets/multimedia/stage/1.jpg)
+![stage2]({{site.baseurl}}/assets/multimedia/stage/2.jpg)
+![stage3]({{site.baseurl}}/assets/multimedia/stage/3.jpg)
+![stage4]({{site.baseurl}}/assets/multimedia/stage/4.jpg)
+![stage5]({{site.baseurl}}/assets/multimedia/stage/5.jpg)
+![stage6]({{site.baseurl}}/assets/multimedia/stage/6.jpg)
+![stage7]({{site.baseurl}}/assets/multimedia/stage/7.jpg)
